@@ -1,0 +1,7 @@
+<view a:if="{{ pageReady }}" class="page-container">
+  <canvas id="canvasTest" type="2d" onReady="onCanvasReady" ></canvas>
+
+  <view class="playButton" onTap="play">
+    play
+  </view>
+</view>

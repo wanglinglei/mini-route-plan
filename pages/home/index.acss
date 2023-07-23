@@ -1,0 +1,10 @@
+.playButton{
+  padding: 10rpx 20rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+  position: fixed;
+  top: 40rpx;
+  right: 40rpx;
+  background-color: chocolate;
+  background-color: chartreuse;
+}

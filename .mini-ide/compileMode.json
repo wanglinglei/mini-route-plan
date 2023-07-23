@@ -1,0 +1,40 @@
+{
+  "modes": [
+    {
+      "title": "移动",
+      "page": "pages/test1/index",
+      "pageQuery": "",
+      "update": true
+    },
+    {
+      "title": "index",
+      "page": "pages/index/index",
+      "pageQuery": "",
+      "update": true
+    },
+    {
+      "title": "头像位置不变",
+      "page": "pages/test2/index",
+      "pageQuery": "",
+      "update": true
+    },
+    {
+      "title": "兼容性页面",
+      "page": "pages/test3/index",
+      "pageQuery": "",
+      "update": true
+    },
+    {
+      "title": "固定视口(暂不可行)",
+      "page": "pages/test4/index",
+      "pageQuery": "",
+      "update": true
+    },
+    {
+      "title": "moveraea实现",
+      "page": "pages/test5/index",
+      "pageQuery": "",
+      "update": true
+    }
+  ]
+}

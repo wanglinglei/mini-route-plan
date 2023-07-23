@@ -1,0 +1,10 @@
+<view a:if="{{ pageReady }}" class="page-container">
+  <movable-area class="movable-area">
+    <movable-view direction="all" class="movable-view" x="{{transformPos.x}}" scale="true" inertia="true" y="{{transformPos.y}}" friction="1">
+      <canvas id="canvasTest" type="2d" onReady="onCanvasReady" ></canvas>
+    </movable-view>
+  </movable-area>
+  <view class="playButton" onTap="play">
+    play
+  </view>
+</view>

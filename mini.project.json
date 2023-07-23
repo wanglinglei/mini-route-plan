@@ -1,0 +1,8 @@
+{
+  "enableAppxNg": true,
+  "include": [
+    "image/*.jpg"
+  ],
+  "component2": true,
+  "enableHMR": true
+}

@@ -1,0 +1,8 @@
+<view>
+  canvas
+  <canvas id="canvas" type="2d" onReady="onCanvasReady" style="width: 100%; height: 100vh;"></canvas>
+
+  <view class="playButton" onTap="play">
+    play
+  </view>
+</view>
